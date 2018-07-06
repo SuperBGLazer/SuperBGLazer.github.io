@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Lazer Tech Builds!
 
 You can use the [editor on GitHub](https://github.com/SuperBGLazer/SuperBGLazer.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
